@@ -1,0 +1,9 @@
+{
+  "name": "SheOS ",
+  "description": "The She Operating System - A comprehensive ecosystem for women empowerment, safety, health, finance, and community.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
